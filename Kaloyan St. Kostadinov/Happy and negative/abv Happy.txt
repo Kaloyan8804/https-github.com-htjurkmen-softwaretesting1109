@@ -1,0 +1,23 @@
+Test Case ID:	  TC003
+
+Name: Send an email from abv profil to another email successful.
+
+Priority:	1
+
+Description: 	
+
+Prerequisites: 	Already registered account in www.abv.bg
+
+Input Data:	User name: KOKO@abv.bg , password: qwe123
+
+Date Created:	17.08.19
+
+Author:	   Kaloyan Kostadinov
+
+ Test Steps:
+
+Step	Expected Result
+1.Open your web browser: Enter website www.abv.bg
+2.Enter a username and password: In the text above you will see username and password, you have to enter it.
+3. Press log in: When you press login button you have to log in successful.
+4. Write an emeil:Press send an email , write an email to valid user and press send.You`ll see your email is send successful. 

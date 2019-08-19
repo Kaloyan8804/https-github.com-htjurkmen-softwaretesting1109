@@ -1,0 +1,22 @@
+Test Case ID:	  TC005
+
+Name:	 Try to withdrawal of 50 Euro with visa card from an ATM ING Diba bank withdauth pin cod.
+
+Priority:	1
+
+Description:	
+
+Prerequisites: You have to have a visa card.
+
+Input Data:  You don't know a password for the viscard.
+
+Date Created:	17.08.19
+
+Author:	   Kaloyan Kostadinov
+
+ Test Steps:
+
+Step	Expected Result
+1.Go to ATM: Go to ATM for ING Diba bank and put you visacard in it.
+2.Enter a random pin code: Enter a random pin code and try to guess a true pin cod a few times.
+3. ATM must block your visa card: When you entered a random pin cod more than 3 times  ATM must take or bloke you visa card !

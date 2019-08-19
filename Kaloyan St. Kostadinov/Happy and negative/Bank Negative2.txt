@@ -1,0 +1,22 @@
+Test Case ID:	  TC004
+
+Name:	 Successful withdrawal of 100 Euro from an ATM ING Diba bank with visa card.
+
+Priority:	1
+
+Description:	
+
+Prerequisites: You have to have a visa card with money in it
+
+Input Data:  password for the viscard is: 1234
+
+Date Created:	17.08.19
+
+Author:	   Kaloyan Kostadinov
+
+ Test Steps:
+
+Step	Expected Result
+1.Go to ATM: Go to ATM for ING Diba bank and put you visacard in it.
+2.Enter a password: There is a password in the text and you have to enter it.
+3. Withdrawal of 100 Euro: When you entered a password - choose withdraw money and choose 100 Euro . ATM must give you 100 Euro.

@@ -1,0 +1,23 @@
+Test Case ID:	  TC002
+
+Name:	Try to create an account in abv.bg with username which already exist.
+
+Priority:	1
+
+Description: 	
+
+Prerequisites:	account must exist 
+
+Input Data:	User name: Kaloyan.Kostadinov@abv.bg
+
+Date Created:	17.08.19
+
+Author:	   Kaloyan Kostadinov
+
+ Test Steps:
+
+Step	Expected Result
+1.Open your web browser: enter website www.abv.bg
+2.Press the button :registreit new account .
+3. Follow the steps: enter the username above , and follow all instructions and enter your own : password , telefon number, name.... 
+4. Press create a profile: And you have to see : profile exist or something like this.

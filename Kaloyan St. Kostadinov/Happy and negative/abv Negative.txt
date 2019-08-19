@@ -1,0 +1,22 @@
+Test Case ID:	  TC001
+
+Name:	 Unsuccessful "log in" in one profile with password from another profile
+
+Priority:	1
+
+Description: Enter a valid password from one profile to another valid user name and press log in	
+
+Prerequisites:	account must exist 
+
+Input Data:	User name: KOKO@abv.bg , password: qwe123
+
+Date Created:	17.08.19
+
+Author:	   Kaloyan Kostadinov
+
+ Test Steps:
+
+Step	Expected Result
+1.Enter a username: In the text you will see username , you have to enter it.
+2.Enter a password: There is a password in the text too, you have to enter it.
+3. Press log in: When you press login button you have to see : wrong password or username.
